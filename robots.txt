@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-86sanh.quietmatches.com/sitemap.xml
